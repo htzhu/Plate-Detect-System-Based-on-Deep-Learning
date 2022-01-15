@@ -1,6 +1,18 @@
-### Hi there 👋
+## Hi there 👋
 
 This is a ML project, by using Deep Learning Technology. Next I will update some basic information in this file.
+
+### Environment：
+
+Python3.6
+
+Keras  2.0.6
+
+TensorFlow 1.3.0
+
+OpenCV：4.4.0.46
+
+Numpy：1.19.4
 
 ---
 
