@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+This is a ML project, by using Deep Learning Technology. Next I will update some basic information in this file.
+
+---
+
 <!--
 **ursonny/ursonny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
